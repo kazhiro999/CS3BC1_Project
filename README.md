@@ -26,18 +26,27 @@ I believe it will be helpful for users. Because if the number of items and brand
 
 Also from design point of view, I reduced the opacity, considering to overlap the button on sake images.
 
-### Currency and language selector
+### - Currency and language selector
 
 I suppose users around the would will use this website, I hope, and I thought I must support many languages and currency.
 
-### Payment System
+### - Payment System
 
 The Shopify integrates with many payment processors, including PayPal and Stripe.
 
-### Search Bar
+### - Search Bar
 
 Once users type a particular word such as commodity name and brand name, they can find items.
 If there are no items, an the result is empty.
+
+### - reviewing system
+
+About the reviewing system, I took care of how to measure both qualitative and quantitative data. Because it is related to customer’s feelings directly. Therefore, I implemented a product review area and review score stars. 
+Of course, as a user submit the form, it will appear soon.
+
+### - Social Media
+
+Each item has a share button and a user regadless of buying or not can widespread the detail of sake on their social media (Twitter, Facebook and Pinterest).
 
 ## Platform
 I used Shopify, because it is easy-to-handle, and even if a user is not familiar with codings and statistics, they can easily manage thier own website, and they can review recent sales and compare the performance of sales channels.
